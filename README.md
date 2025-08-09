@@ -14,7 +14,7 @@ As a full-stack developer since 2023, I specialize in building high-performance,
   <details >
     <summary><b>🔧 Languages</b></summary>
     <br>
-     <img src="https://skillicons.dev/icons?i=css,html,js,ts,cs&theme=dark" alt="Languages"/>
+     <img src="https://skillicons.dev/icons?i=css,html,js,ts&theme=dark" alt="Languages"/>
   </details>
 
   <details >
